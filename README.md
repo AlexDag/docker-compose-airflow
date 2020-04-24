@@ -11,7 +11,7 @@ Ideal for local development or small scale personal deployments.
 
 **Step 3:** Run `docker-compose up -d`
 
-**Step 4:** Run `sh init_airflow_setup.sh` (Only run this for initial deployment)
+**Step 4:** Run `sh init_airflow_setup.sh` (Run this only for initial deployment)
 
 **Step 5:** Go to http://localhost:8080 and login with user: _airflow_test_user_ and password: _airflow_test_password_ as specified in init_airflow_setup.sh script
 
